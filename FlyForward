@@ -1,0 +1,4 @@
+launch_echo();
+waitForSeconds(3);
+fly('forward',1,50);
+waitForSeconds(1);
